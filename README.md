@@ -1,25 +1,5 @@
-### Hello There 👋 I am Nilesh Bohra, a second year undergraduate, pursuing Bachlors in Computer Science 
+### Hello There! 👋 I am Nilesh Bohra, a second year undergraduate, pursuing Bachlors in computer science.
+- 🌱 I’m currently working on projects on NodeJs,Express,ReactJs.
+- 📫 How to reach me: nmbohra2000@gmail.com
 
-<!--
-**Nike2000/Nike2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---!>
-<ul>
-  <li>🌱 I’m currently working web based projects in nodeJs, reactJs</li>
-  <li>📫 How to reach me: <a href=nmbohra2000@gmail.com>nmbohra2000@gmail.com</a></li>
- <ul>
- <br>
-<!--
-- 🔭I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
---!>
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nike2000&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nike2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---!>
+[![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=Nike2000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="200" />
