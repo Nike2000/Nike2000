@@ -1,4 +1,4 @@
-### Hello There! 👋 I am Nilesh Bohra, a second year undergraduate, pursuing Bachlors in computer science.
+### Hello There! 👋 I am Nilesh, a passionate programmer.
 - 🌱 I’m currently working on projects on NodeJs,Express,ReactJs.
 - 📫 How to reach me: nmbohra2000@gmail.com
 
